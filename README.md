@@ -82,7 +82,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anas-Rehberlik&theme=dark&mode=weekly" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Anas-Rehberlik&theme=dark" height="220" alt="streak graph"  />
 </div>
 
 
