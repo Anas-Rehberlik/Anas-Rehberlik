@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://avatars.githubusercontent.com/u/116806081?v=4"  />
+  <img height="350" src="https://github.com/Anas-Rehberlik/Anas-Rehberlik/assets/116806081/354a946a-4799-4090-b875-b031208e1883"  />
 </div>
 
 
@@ -7,19 +7,19 @@
 
 <div align="center">
    <a href="https://www.linkedin.com/in/anas-ahmed-4b2761240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaFXUBdVCSMqHWd0e53Xrmw%3D%3D" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" target="_blank" height="25" alt="linkedin logo"  />
   </a>
 <a href="https://www.youtube.com/@anasrehberlik/featured" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF1919&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF1919&logoColor=white&labelColor=&style=for-the-badge" target="_blank" height="25" alt="youtube logo"  />
     </a>
     <a href="https://twitter.com/AnasRehberlik" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" target="_blank" height="25" alt="twitter logo"  />
   </a>
   <a href="mailto:anasahmedofficial3@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank" height="25" alt="Gmail logo"  />
 </a>
 <a href="https://www.instagram.com/anas_rehberlik/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=962fbf&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=962fbf&logoColor=white&labelColor=&style=for-the-badge" target="_blank" height="25" alt="Instagram logo" />
 </a>
 </div>
 
