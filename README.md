@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="350" src="https://github.com/Anas-Rehberlik/Anas-Rehberlik/assets/116806081/354a946a-4799-4090-b875-b031208e1883"  />
+  <img src="https://github.com/user-attachments/assets/68e83f0e-f88e-44f1-9af0-0bfa11b81b07"  />
 </div>
-
 
 ###
 
