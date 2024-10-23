@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I'm Anas Ahmed from India.<br><br>-  👨‍💻 Currently working on frontend development and designing.<br>- 🌐 Exploring open-source contribution.<br>- 🎬 In my free time, I enjoy video editing.<br>- 🎤 I'm also passionate about public speaking and teaching coding and computer science fundamentals.
+<p align="left">I'm Anas Ahmed from India.<br><br>-  👨‍💻 Currently working on frontend development and designing.<br>- 🌐 Exploring open-source contribution.<br>- 🎬 In my free time, I enjoy video editing.<br>- 🎤 I'm also passionate about public speaking.<br>- 📚 I enjoy teaching coding and computer science fundamentals.
 </p>
 
 ###
