@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I'm Anas Ahmed from India.<br><br>- 📚 I'm currently learning frontend development.<br>- 🌐 Exploring open-source contribution.<br>- 🎬 In my free time, I enjoy video editing.<br>- 🎤 I'm also passionate about public speaking.
+<p align="left">I'm Anas Ahmed from India.<br><br>-  👨‍💻 Currently working on frontend development and designing.<br>- 🌐 Exploring open-source contribution.<br>- 🎬 In my free time, I enjoy video editing.<br>- 🎤 I'm also passionate about public speaking and teaching coding and computer science fundamentals.
 </p>
 
 ###
@@ -63,17 +63,20 @@
   <img width="12" />
   <img src="https://github.com/Anas-Rehberlik/Anas-Rehberlik/assets/116806081/cfbeaaed-841f-48f5-b45a-f4bc064edf40" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/Anas-Rehberlik/Anas-Rehberlik/assets/116806081/71b87e46-e4cc-4a04-bb1f-da8d2d2da631" height="40" alt="github logo"  />
+  <img src="https://github.com/Anas-Rehberlik/Anas-Rehberlik/assets/116806081/71b87e46-e4cc-4a04-bb1f-da8d2d2da631" height="50" alt="github logo"  />
   <img width="12" />
   <img src="https://github.com/Anas-Rehberlik/Anas-Rehberlik/assets/116806081/e4d9ecfd-1964-4181-93ef-47b3d303067c" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://github.com/Anas-Rehberlik/Anas-Rehberlik/assets/116806081/aa8f8d51-2799-4c81-a90c-066a73bd791c" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://github.com/Anas-Rehberlik/Anas-Rehberlik/assets/116806081/2b66a365-1328-4cfb-8a90-af051ccde57d" height="40" alt="google cloud logo"  />
+  <img src="https://github.com/Anas-Rehberlik/Anas-Rehberlik/assets/116806081/2b66a365-1328-4cfb-8a90-af051ccde57d" height="50" alt="google cloud logo"  />
+ <img width="12" />
+   <img src="https://github.com/user-attachments/assets/51d15b04-b0d3-42d2-80fc-6154283559d9" height="50" alt="figma logo"  />
  <img width="12" />
 </div>
 
 ###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
